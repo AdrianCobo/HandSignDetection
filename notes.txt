@@ -1,0 +1,18 @@
+set up:
+sudo pip install opencv-python
+sudo pip install mediapipe
+sudo pip install cvzone
+
+run program:
+python3 <program-name>
+
+run module:
+python3 -m HandTrackingModule
+
+go to google teachable machine when you get the images:
+ upload de data
+ train the model 
+ export the model
+ select tensorflow option
+ keras
+ and download
